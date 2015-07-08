@@ -1,0 +1,36 @@
+<openerp>
+    <data>
+	<record model="usmanapp.course" id="course1">
+		<field name="name">Physics</field>
+		<field name="description">Nice subject</field>
+	</record>
+
+	<record model="usmanapp.course" id="course2">
+		<field name="name">Python</field>
+		<field name="description">MY bread and butter</field>
+	</record>        
+
+
+<!--  -->
+        <!--   <record id="object0" model="usmanapp.usmanapp"> -->
+        <!--     <field name="name">Object 0</field> -->
+        <!--   </record> -->
+        <!--  -->
+        <!--   <record id="object1" model="usmanapp.usmanapp"> -->
+        <!--     <field name="name">Object 1</field> -->
+        <!--   </record> -->
+        <!--  -->
+        <!--   <record id="object2" model="usmanapp.usmanapp"> -->
+        <!--     <field name="name">Object 2</field> -->
+        <!--   </record> -->
+        <!--  -->
+        <!--   <record id="object3" model="usmanapp.usmanapp"> -->
+        <!--     <field name="name">Object 3</field> -->
+        <!--   </record> -->
+        <!--  -->
+        <!--   <record id="object4" model="usmanapp.usmanapp"> -->
+        <!--     <field name="name">Object 4</field> -->
+        <!--   </record> -->
+        <!--  -->
+    </data>
+</openerp>
